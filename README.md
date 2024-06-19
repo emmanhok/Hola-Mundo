@@ -18,6 +18,5 @@ GIT PULL
 vamos a agregar un merge a la rama principal
 realizamos un nuevo cambio
 
-Finalizamos las actividades de AySO Cohorte 2024 Grupo Solucion202 :partying_face: 
-
-Practicando el comando git fetch y git pull.
+Finalizamos las actividades de Arquitectura y Sistemas Operativos Cohorte 2024 Grupo Solucion202 :partying_face: 
+Practicando los comandos git fetch y git pull

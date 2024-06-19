@@ -19,3 +19,5 @@ vamos a agregar un merge a la rama principal
 realizamos un nuevo cambio
 
 Finalizamos las actividades de AySO Cohorte 2024 Grupo Solucion202 :partying_face: 
+
+Practicando el comando git fetch y git pull.

@@ -13,6 +13,7 @@ Nueva actividad
 Finalizando con Github
 Modifico Listas
 Una línea más
+Practica del comando git fetch
 GIT PULL
 vamos a agregar un merge a la rama principal
 realizamos un nuevo cambio
